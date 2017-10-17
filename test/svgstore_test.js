@@ -126,7 +126,7 @@ exports.svgstore = {
     test.equal(
         minify(actual, minificationOptions),
         minify(expected, minificationOptions),
-        'should have created a valid demo html'
+        'should have created a valid demo html 1'
     );
     test.done();
   },
@@ -246,7 +246,7 @@ exports.svgstore = {
     test.equal(
         minify(actual, minificationOptions),
         minify(expected, minificationOptions),
-        'should have created a valid demo html'
+        'should have created a valid demo html 2'
     );
     test.done();
   },
@@ -266,7 +266,7 @@ exports.svgstore = {
     test.equal(
         minify(actual, minificationOptions),
         minify(expected, minificationOptions),
-        'should have created a valid demo html'
+        'should have created a valid demo html 3'
     );
     test.done();
   },

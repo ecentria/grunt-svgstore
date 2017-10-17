@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Merge SVGs from a folder",
   "devDependencies": {
-    "grunt": "~0.4.5",
-    "html-minifier": "~0.6.8",
-    "grunt-contrib-clean": "~0.5.0",
-    "grunt-contrib-jshint": "~0.10.0",
-    "grunt-contrib-nodeunit": "~0.4.0"
+    "grunt": "^1.0.1",
+    "html-minifier": "^3.5.5",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-nodeunit": "^1.0.0"
   },
   "dependencies": {
     "chalk": "^1.0.0",
@@ -20,12 +20,12 @@
     "grunt": ">=0.4.0"
   },
   "engines": {
-    "node": ">= 0.8.0"
+    "node": ">=6.9.2"
   },
   "scripts": {
     "test": "grunt test"
   },
-  "repository": "FWeinb/grunt-svgstore",
+  "repository": "ecentria/grunt-svgstore",
   "keywords": [
     "svg",
     "icon",
@@ -34,6 +34,5 @@
   ],
   "author": "Fabrice Weinberg <Fabrice@weinberg.me> (http://blog.weinberg.me)",
   "license": "MIT",
-  "bugs": "https://github.com/FWeinb/grunt-svgstore/issues",
-  "homepage": "https://github.com/FWeinb/grunt-svgstore#readme"
+  "homepage": "https://github.com/ecentria/grunt-svgstore/blob/master/README.md"
 }
