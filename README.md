@@ -2,6 +2,10 @@
 
 > Merge SVGs from a folder.
 
+## Why does this fork exist?
+Because [original grunt-svgstore](https://github.com/FWeinb/grunt-svgstore) is not longer maintained.
+But it sticks with an old version of grunt that prevents us from upgrading out npm modules.
+
 ## Want to help? 
 I am looking for a maintainer who would like to take over this plugin. 
 
